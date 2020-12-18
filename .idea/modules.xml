@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InfilectPro.iml" filepath="$PROJECT_DIR$/.idea/modules/InfilectPro.iml" group="InfilectPro" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="InfilectPro/app" />
+    </modules>
+  </component>
+</project>

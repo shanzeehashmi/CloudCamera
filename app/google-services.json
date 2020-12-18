@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164940838383",
+    "project_id": "cameraapp-a0aa4",
+    "storage_bucket": "cameraapp-a0aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164940838383:android:2482f615acaa11d3f1b21a",
+        "android_client_info": {
+          "package_name": "com.infilect.infilectpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164940838383-t39ono0ich693n22mt8ra33nr684t8t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0bLdWITOk4ZBBEtJAj1GnsP0HaOUlLLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164940838383-t39ono0ich693n22mt8ra33nr684t8t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
